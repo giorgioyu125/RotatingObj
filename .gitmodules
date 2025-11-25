@@ -1,0 +1,6 @@
+[submodule "include/external-libs/SDL"]
+	path = include/external-libs/SDL
+	url = https://github.com/libsdl-org/SDL.git
+[submodule "include/external-libs/cglm"]
+	path = include/external-libs/cglm
+	url = https://github.com/recp/cglm.git
